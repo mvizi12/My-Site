@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Miles' Site</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div id="Top-container-home">
+
+      <header class="page-head">
+        <div class="d-flex align-items-end justify-content-between pe-5 ps-4 pt-5">
+          <div class="Header-names-titles">
+            <h1 class="display-6">Miles Vizinau</h1>
+            <p>
+              Aspiring Game Designer & Software Engineer <br> Founder of MVIZI GAMES <br> Student @ CSU - East Bay <br> Based in California
+            </p>
+          </div>
+
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+                <li class="nav-item ms-2"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+                <li class="nav-item ms-2"><a class="nav-link" href="background.html">Background</a></li>
+                <li class="nav-item ms-2"><a class="nav-link" href="mailto:mvtendo@gmail.com?Subject=Vizi.com%20enquiry">Contact</a></li>
+              </ul>
+            </div>
+          </nav>
+
+        </div>
+
+        <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo" src="images\MVizi Logo.png" alt="MVizi Games logo"></a>
+        <div class="d-flex justify-content-around">
+          <p></p>
+          <div class="intro ms-5">
+            <h6 class="intro-header">Introduction</h6>
+            <p>I'm an aspiring game designer, app developer, and front-end web developer workig from California. Aiming for a lot aren't I?</p>
+            <p>I have worked, and am currently working towards these goals through personal online courses and official education.
+            I'm currently a senior CS major at CSU - East Bay</p>
+            <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
+            Notable CSU courses: Mobile Programming, Software Engineering, Website Development</p>
+          </div>
+          <div class="pic-media">
+            <img class="profile-pic me-3" src="images\ProfPic.png" alt="Profile-Pic">
+            <ul class="social-list d-flex mt-3 ps-4">
+              <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
+              <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
+              <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src="images\Game Controller Icon.png" alt="Controller"></a></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+
+    </div>
+
+    <div id="Middle-container-home">
+      <div class="skill-category pb-3 pt-5">
+        <h6 class="skill-category-header">Game Designer</h6>
+        <p class="skill-category-description">Game deisgn is my main passion and what I've strived towards ever since I was a kid.
+          My vision is to create games that foster friendship and community in order to make the world place.</p>
+        <p>In order to achieve this vision, I've attended events with other like minded individuals to grow our game design skills
+          as well as taken online courses. All the games I've made so far have been 2D, make with Unity, and programmed in C#,
+          but I plan to venture into 3D in the future as well</p>
+      </div>
+      <br>
+
+      <div class="skill-category pb-3">
+        <h6 class="skill-category-header">App Developer</h6>
+        <p class="skill-category-description">Going through college as a CS major, I learned just how many different fields that one term encompasses.
+          I wasn't quite sure how to use this degree to supplement of Game Design career path,
+          so I ended up choosing "Mobile Programming" as one of my electives to see how I vibed with it.
+          I ended up liking the class a lot and realized app development would be a great skill to have as a game designer.</p>
+        <p>I learned Android Studio and android app development concepts utilizing the Java programming language.
+          I plan to take an online course that teaches ios app development as well</p>
+      </div>
+      <br>
+
+      <div class="skill-category pb-3">
+        <h6 class="skill-category-header">Software Developer</h6>
+        <p class="skill-category-description">When I was a kid and decided on being a Game Designer,
+          I also decided to major in Computer Science because I was told that would be a great degree for it,
+          and because I wanted to do my part in making all the stuff Tony Stark was able to do in Iron Man 1/2 a reality.</p>
+        <p>Ever since I've been in this major I've learned key concepts, such as algorithms & data structures while applying those concepts in projects.
+          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control</p>
+      </div>
+      <br>
+
+      <div class="skill-category pb-3">
+        <h6 class="skill-category-header">Web Developer</h6>
+        <p class="skill-category-description">Journeying through college as a CS major I found struggled somewhat finding an avenue I really enjoyed when it came to the major.
+          But just like with app development, I found that I enjoyed front-end website devlopment more than other areas of the field.
+          I also saw it as another skill that could aid me in my indie game design aspirations.</p>
+        <p>I've been exposed to the basic building blocks of web development at CSU and continued to the field by taking an online web dev course.
+          Some of what I've learned inlcudes: Bootstrap, CSS, HTML, & JavaScript</p>
+      </div>
+      <br>
+
+      <div class="skill-category pb-3">
+        <h6 class="skill-category-header">Video Producer</h6>
+        <p class="skill-category-description">Through my school I was able to get an internship as an intern at Lawrence Berkeley National Lab.
+          It was there I developed an array of skills and experienced what it was really like in the working world (besides retail stores).</p>
+        <p>My job there was to produce 2 videos based on different aspects of the lab and its research.
+          Some of what I learned/devloped includes: Adobe Premiere Pro, Communication, Interviewing, & PowerDirector</p>
+      </div>
+      <br>
+
+      <div class="categories d-flex justify-content-center mt-5">
+        <div class="design">
+          <h6>Design</h6>
+          <ul class="design-list">
+            <li>App Design</li>
+            <li>Game Design</li>
+            <li>Wireframing</li>
+            <li>Website Design</li>
+          </ul>
+        </div>
+
+        <div class="development ms-5 me-5">
+          <h6>Development</h6>
+          <ul class="development-list">
+            <li>C++ | C#</li>
+            <li>Designs coded</li>
+            <li>HTML | CSS</li>
+            <li>JavaScript</li>
+            <li>Java</li>
+            <li>Python</li>
+          </ul>
+        </div>
+
+        <div class="tools">
+          <h6>Tools</h6>
+          <ul class="tools-list">
+            <li>Adobe Premiere Pro</li>
+            <li>Android Studio</li>
+            <li>Atom</li>
+            <li>PowerDirector</li>
+            <li>Unity</li>
+            <li>Visual Studio</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div id="Bottom-container-home">
+      <header class="page-bottom">
+        <h1 class="display-6">Miles Vizinau</h1>
+
+        <nav class="navbar navbar-expand-lg navbar-light" style="display: inline-block;">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+              <li class="nav-item ms-2"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+              <li class="nav-item ms-2"><a class="nav-link" href="background.html">Background</a></li>
+              <li class="nav-item ms-2"><a class="nav-link" href="mailto:mvtendo@gmail.com?Subject=Vizi.com%20enquiry">Contact</a></li>
+            </ul>
+          </div>
+        </nav>
+      <br>
+
+      <ul class="social-list d-flex justify-content-center">
+        <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
+        <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
+        <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src="images\Game Controller Icon.png" alt="Controller"></a></li>
+      </ul>
+
+        <a href="https://www.vecteezy.com/free-vector/web-design" target="_blank">Web Design Vectors by Vecteezy</a>
+      </div>
+
+      </header>
+  </body>
+</html>

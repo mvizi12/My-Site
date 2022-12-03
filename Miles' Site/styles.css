@@ -1,0 +1,201 @@
+/*******************************Tag Selectors*************************************************/
+a
+{
+  text-decoration: none;
+}
+/*******************************Tag Selectors*************************************************/
+
+/*******************************Class Selectors*************************************************/
+.background-class-header
+{
+  text-align: center;
+}
+
+.background-list-item
+{
+  width: 35rem;
+}
+
+.design-list
+{
+  list-style-type: none;
+  padding: 0;
+}
+
+.development-list
+{
+  list-style-type: none;
+  padding: 0;
+}
+
+.game-button
+{
+  display: block;
+  margin: auto
+}
+.game-controller-icon
+{
+  background-color: #e06244;
+  border-radius: 0.8125rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.game-pic
+{
+  height: 25rem;
+  width: 35rem;
+}
+
+.game-text
+{
+  width: 30rem;
+}
+
+.Header-names-titles
+{
+  color: white;
+}
+
+.instagram-icon
+{
+  background-color: #e06244;
+  border-radius: 2.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.intro
+{
+  line-height: 2;
+  width: 40rem;
+}
+
+.intro-header
+{
+  text-align: center;
+}
+
+.mvizi-games-logo
+{
+  float: left;
+  height: 10rem;
+  width: 10rem;
+}
+
+.page-bottom
+{
+  background-image: url(images/VectorPattern2.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: 38rem;
+  height: 18.75rem;
+}
+
+.page-head
+{
+  background-image: url(images/VectorPattern1.png);
+  background-repeat: no-repeat;
+  background-size: 50rem 35rem;
+  height: 30rem;
+}
+
+.profile-pic
+{
+  height: 12.5rem;
+  width: 12.5rem;
+}
+
+.project-class-header
+{
+  text-align: center;
+}
+
+.Bottom-container .social-list
+{
+  padding-left: 0;
+}
+
+.skill-category
+{
+  margin: auto;
+  width: 40rem;
+}
+
+.skill-category-header
+{
+  text-align: center;
+}
+
+.social-list
+{
+  list-style-type: none;
+}
+
+.tools-list
+{
+  list-style-type: none;
+  padding: 0;
+}
+
+.twitter-icon
+{
+  background-color: #e06244;
+  border-radius: 2.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+/*******************************Class Selectors*************************************************/
+
+/*******************************ID Selectors*************************************************/
+#Bottom-container-background
+{
+  background-color: #E9D8A6;
+  text-align: center;
+}
+
+#Bottom-container-home
+{
+  background-color: #f1f0e9;
+  text-align: center;
+}
+
+#Bottom-container-portfolio
+{
+  background-color: #E9D8A6;
+  text-align: center;
+}
+
+#Middle-container-background
+{
+  background-color: #E9D8A6;
+  line-height: 2;
+}
+
+#Middle-container-home
+{
+  background-color: #E9D8A6;
+  line-height: 2;
+}
+
+#Middle-container-portfolio
+{
+  background-color: #E9D8A6;
+  line-height: 2;
+}
+
+#Top-container-background
+{
+  background-color: #f1f0e9;
+}
+
+#Top-container-home
+{
+  background-color: #f1f0e9;
+}
+
+#Top-container-portfolio
+{
+  background-color: #f1f0e9;
+}
+/*******************************ID Selectors*************************************************/
