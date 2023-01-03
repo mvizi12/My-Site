@@ -67,7 +67,7 @@
         <p class="skill-category-description">Game deisgn is my main passion and what I've strived towards ever since I was a kid.
           My vision is to create games that foster friendship and community in order to make the world place.</p>
         <p>In order to achieve this vision, I've attended events with other like minded individuals to grow our game design skills
-          as well as taken online courses. All the games I've made so far have been 2D, make with Unity, and programmed in C#,
+          as well as taken online courses. All the games I've made so far have been 2D, made with Unity, and programmed in C#,
           but I plan to venture into 3D in the future as well</p>
       </div>
       <br>
@@ -75,7 +75,7 @@
       <div class="skill-category pb-3">
         <h6 class="skill-category-header">App Developer</h6>
         <p class="skill-category-description">Going through college as a CS major, I learned just how many different fields that one term encompasses.
-          I wasn't quite sure how to use this degree to supplement of Game Design career path,
+          I wasn't quite sure how to use this degree to supplement my Game Design career path,
           so I ended up choosing "Mobile Programming" as one of my electives to see how I vibed with it.
           I ended up liking the class a lot and realized app development would be a great skill to have as a game designer.</p>
         <p>I learned Android Studio and android app development concepts utilizing the Java programming language.
