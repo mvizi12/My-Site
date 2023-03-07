@@ -42,9 +42,9 @@
           <p></p>
           <div class="intro ms-5">
             <h6 class="intro-header">Introduction</h6>
-            <p>I'm an aspiring game designer, app developer, and front-end web developer workig from California. Aiming for a lot aren't I?</p>
+            <p>I'm an aspiring game designer, app developer, and front-end web developer working from California. Aiming for a lot aren't I?</p>
             <p>I have worked, and am currently working towards these goals through personal online courses and official education.
-            I'm currently a senior CS major at CSU - East Bay</p>
+            I'm currently a senior CS major at CSU - East Bay.</p>
             <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
             Notable CSU courses: Mobile Programming, Software Engineering, Website Development</p>
           </div>
@@ -64,11 +64,11 @@
     <div id="Middle-container-home">
       <div class="skill-category pb-3 pt-5">
         <h6 class="skill-category-header">Game Designer</h6>
-        <p class="skill-category-description">Game deisgn is my main passion and what I've strived towards ever since I was a kid.
-          My vision is to create games that foster friendship and community in order to make the world place.</p>
+        <p class="skill-category-description">Game design is my main passion and what I've strived towards ever since I was a kid.
+          My vision is to create games that foster friendship and community in order to make the world a better place.</p>
         <p>In order to achieve this vision, I've attended events with other like minded individuals to grow our game design skills
           as well as taken online courses. All the games I've made so far have been 2D, made with Unity, and programmed in C#,
-          but I plan to venture into 3D in the future as well</p>
+          but I plan to venture into 3D in the future as well.</p>
       </div>
       <br>
 
@@ -79,7 +79,7 @@
           so I ended up choosing "Mobile Programming" as one of my electives to see how I vibed with it.
           I ended up liking the class a lot and realized app development would be a great skill to have as a game designer.</p>
         <p>I learned Android Studio and android app development concepts utilizing the Java programming language.
-          I plan to take an online course that teaches ios app development as well</p>
+          I plan to take an online course that teaches ios app development as well.</p>
       </div>
       <br>
 
@@ -89,7 +89,7 @@
           I also decided to major in Computer Science because I was told that would be a great degree for it,
           and because I wanted to do my part in making all the stuff Tony Stark was able to do in Iron Man 1/2 a reality.</p>
         <p>Ever since I've been in this major I've learned key concepts, such as algorithms & data structures while applying those concepts in projects.
-          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control</p>
+          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control.</p>
       </div>
       <br>
 
@@ -98,17 +98,17 @@
         <p class="skill-category-description">Journeying through college as a CS major I found struggled somewhat finding an avenue I really enjoyed when it came to the major.
           But just like with app development, I found that I enjoyed front-end website devlopment more than other areas of the field.
           I also saw it as another skill that could aid me in my indie game design aspirations.</p>
-        <p>I've been exposed to the basic building blocks of web development at CSU and continued to the field by taking an online web dev course.
-          Some of what I've learned inlcudes: Bootstrap, CSS, HTML, & JavaScript</p>
+        <p>I've been exposed to the basics of web development at East Bay and continue to further my knowledege in the field by taking an online web dev course.
+          Some of what I've learned inlcudes: Bootstrap, CSS, HTML, & JavaScript.</p>
       </div>
       <br>
 
       <div class="skill-category pb-3">
         <h6 class="skill-category-header">Video Producer</h6>
-        <p class="skill-category-description">Through my school I was able to get an internship as an intern at Lawrence Berkeley National Lab.
-          It was there I developed an array of skills and experienced what it was really like in the working world (besides retail stores).</p>
+        <p class="skill-category-description">Through my school I was able to get an internship at Lawrence Berkeley National Lab.
+          It was there I developed an array of skills and got a taste of what it was like in the day of a scientist.</p>
         <p>My job there was to produce 2 videos based on different aspects of the lab and its research.
-          Some of what I learned/devloped includes: Adobe Premiere Pro, Communication, Interviewing, & PowerDirector</p>
+          Some of what I learned/devloped includes: Adobe Premiere Pro, Communication, Interviewing, & PowerDirector.</p>
       </div>
       <br>
 
