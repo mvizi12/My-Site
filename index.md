@@ -8,15 +8,15 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
   </head>
-  <body>
+  <div>
     <div id="Top-container-home">
 
-      <header class="page-head">
+      <header class="page-top">
         <div class="d-flex align-items-end justify-content-between pe-5 ps-4 pt-5">
-          <div class="Header-names-titles">
+          <div class="Header-Titles">
             <h1 class="display-6">Miles Vizinau</h1>
             <p>
-              Aspiring Game Designer & Software Engineer <br> Founder of MVIZI GAMES <br> Student @ CSU - East Bay <br> Based in California
+              Aspiring Game Designer/App Developer <br> Founder of MVIZI GAMES <br> Student @ CSU - East Bay <br> Based in California
             </p>
           </div>
 
@@ -40,8 +40,8 @@
         <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo" src="images\MVizi Logo.png" alt="MVizi Games logo"></a>
         <div class="d-flex justify-content-around">
           <p></p>
-          <div class="intro ms-5">
-            <h6 class="intro-header">Introduction</h6>
+          <div class="ice-breaker ms-5">
+            <h6 class="ice-breaker-header">Introduction</h6>
             <p>I'm an aspiring game designer, app developer, and front-end web developer working from California. Aiming for a lot aren't I?</p>
             <p>I have worked, and am currently working towards these goals through personal online courses and official education.
             I'm currently a senior CS major at CSU - East Bay.</p>
@@ -112,14 +112,14 @@
       </div>
       <br>
 
-      <div class="categories d-flex justify-content-center mt-5">
+      <div class="skill-categories d-flex justify-content-center mt-5">
         <div class="design">
           <h6>Design</h6>
           <ul class="design-list">
             <li>App Design</li>
             <li>Game Design</li>
-            <li>Wireframing</li>
             <li>Website Design</li>
+            <li>Wireframing</li>
           </ul>
         </div>
 
@@ -150,7 +150,7 @@
     </div>
 
     <div id="Bottom-container-home">
-      <header class="page-bottom">
+      <div class="page-bottom">
         <h1 class="display-6">Miles Vizinau</h1>
 
         <nav class="navbar navbar-expand-lg navbar-light" style="display: inline-block;">
@@ -169,15 +169,15 @@
         </nav>
       <br>
 
-      <ul class="social-list d-flex justify-content-center">
-        <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
-        <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
+      <ul class="social-list d-flex justify-content-center ps-0">
+        <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
+        <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon ms-3 me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
         <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src="images\Game Controller Icon.png" alt="Controller"></a></li>
       </ul>
 
         <a href="https://www.vecteezy.com/free-vector/web-design" target="_blank">Web Design Vectors by Vecteezy</a>
       </div>
 
-      </header>
+    </div>
   </body>
 </html>
