@@ -1,17 +1,116 @@
-@media screen and (min-width: 75rem) /*At least Desktop size*/
-{
+@media screen and (min-width: 75em) /*At least Desktop size*/
+{}
 
+@media screen and (min-width: 48em) /*At least Laptop size*/
+{
+  /*******************************Class Selectors*************************************************/
+  .about-me-mobile
+  {
+    display: none;
+  }
+
+  .ice-breaker
+  {
+    width: 40rem;
+  }
+
+  .mvizi-games-logo
+  {
+    float: left;
+    height: 10rem;
+    max-width: 100%;
+    width: 10rem;
+  }
+
+  .page-intro-mobile
+  {
+    display: none;
+  }
+
+  .page-top
+  {
+    background-image: url(images/VectorPattern1.png);
+    background-repeat: no-repeat;
+    background-size: 50rem 35rem;
+    /*height: 31rem;*/
+  }
+
+  .profile-pic
+  {
+    height: 25vh;
+    max-width: 100%;
+    width: 41.67ww;
+  }
+  /*******************************Class Selectors*************************************************/
+
+  /*******************************ID Selectors*************************************************/
+  #Top-container-background
+  {
+    height: 3100%;
+  }
+
+  #Top-container-home
+  {
+    /*height: 3100%;*/
+  }
+
+  #Top-container-portfolio
+  {
+    height: 3100%;
+  }
+  /*******************************ID Selectors*************************************************/
 }
 
-@media screen and (min-width: 48rem) /*At least Tablet/Laptop size*/
+@media screen and (max-width: 47.99em) /*At most Mobile size*/
 {
+  .about-me
+  {
+    display: none;
+  }
 
+  .mvizi-games-logo
+  {
+    height: 20vh;
+    max-width: 100%;
+    width: 20vw;
+  }
+
+  .page-intro-laptop
+  {
+    display: none;
+  }
+
+  .profile-pic
+  {
+    height: 20vh;
+    max-width: 100%;
+    width: 20vw;
+  }
+
+  .skill-category
+{
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-@media screen and (max-width: 47.99rem) /*At most Mobile size*/
-{
-  
+  /*******************************ID Selectors*************************************************/
+  #Top-container-background
+  {
+    height: 4500%;
+  }
+
+  #Top-container-home
+  {
+    /*height: 4500%;*/
+  }
+
+  #Top-container-portfolio
+  {
+    height: 4500%;
+  }
+  /*******************************ID Selectors*************************************************/
 }
+
 /*******************************Tag Selectors*************************************************/
 a
 {
@@ -74,7 +173,6 @@ a
 .ice-breaker
 {
   line-height: 2;
-  width: 40rem;
 }
 
 .ice-breaker-header
@@ -90,11 +188,16 @@ a
   width: 2.5rem;
 }
 
-.mvizi-games-logo
+.navbar-toggler-icon
 {
-  float: left;
-  height: 10rem;
-  width: 10rem;
+  background-image: url(https://lisher.net/assets/svg/menu.svg);
+  height: 3.75rem;
+  width: 3.75rem;
+}
+
+.navbar-toggler
+{
+  border: none;
 }
 
 /*.page-bottom
@@ -106,20 +209,6 @@ a
   height: 18.75rem;
 }*/
 
-.page-top
-{
-  background-image: url(images/VectorPattern1.png);
-  background-repeat: no-repeat;
-  background-size: 50rem 35rem;
-  height: 31rem;
-}
-
-.profile-pic
-{
-  height: 12.5rem;
-  width: 12.5rem;
-}
-
 .project-class-header
 {
   text-align: center;
@@ -128,6 +217,7 @@ a
 .skill-category
 {
   margin: auto;
+  max-width: 100%;
   width: 40rem;
 }
 
@@ -201,7 +291,6 @@ a
 #Top-container-home
 {
   background-color: #f1f0e9;
-  height: 31rem;
 }
 
 #Top-container-portfolio
