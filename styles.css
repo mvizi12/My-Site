@@ -42,6 +42,7 @@
     max-width: 100%;
     width: 41.67ww;
   }
+
   /*******************************Class Selectors*************************************************/
 }
 
@@ -90,6 +91,16 @@ a
 {
   text-decoration: none;
 }
+
+iframe
+{
+  max-width: 100%;
+}
+
+img
+{
+  max-width: 100%;
+}
 /*******************************Tag Selectors*************************************************/
 
 /*******************************Class Selectors*************************************************/
@@ -125,28 +136,12 @@ a
   padding: 0;
 }
 
-.game-button
-{
-  display: block;
-  margin: auto
-}
 .game-controller-icon
 {
   background-color: #e06244;
   border-radius: 0.8125rem;
   height: 2.5rem;
   width: 2.5rem;
-}
-
-.game-pic
-{
-  height: 25rem;
-  width: 35rem;
-}
-
-.game-text
-{
-  width: 30rem;
 }
 
 .Header-Titles
@@ -185,9 +180,55 @@ a
   border: none;
 }
 
+.project-button
+{
+  display: block;
+  margin: auto
+}
+
 .project-class-header
 {
+  font-size: clamp(2rem,3vw,8rem);
   text-align: center;
+}
+
+.project-content .project-info h3
+{
+  font-size: clamp(1rem,2vw,3rem);
+  text-align: center;
+}
+
+.project-content .project-info h5
+{
+  font-size: clamp(0.5rem,1.5vw,2rem);
+  text-align: center;
+}
+
+
+.project-content .project-pic iframe
+{
+  width: 100%;
+}
+
+.project-content .project-pic img
+{
+  width: 100%;
+}
+
+.project-info
+{
+  width: 50%;
+}
+
+.project-pic
+{
+  text-align: center;
+  width: 50%;
+}
+
+.project-text
+{
+  font-size: clamp(0.5rem,1.2vw,1.1rem);
 }
 
 .skill-category
