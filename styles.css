@@ -101,6 +101,36 @@ a
   text-decoration: none;
 }
 
+h1
+{
+  font-size: clamp(2rem,3vw,8rem);
+}
+
+h2
+{
+  font-size: clamp(2rem,2.5vw,7.5rem);
+}
+
+h3
+{
+  font-size: clamp(2rem,2.3vw,7rem);
+}
+
+h4
+{
+  font-size: clamp(0.7rem,2vw,6.5rem);
+}
+
+h5
+{
+  font-size: clamp(0.5rem,1.7vw, 5.5rem);
+}
+
+h6
+{
+  font-size: clamp(0.5rem,1.5vw,4.5rem);
+}
+
 iframe
 {
   max-width: 100%;
@@ -110,13 +140,19 @@ img
 {
   max-width: 100%;
 }
-/*******************************Tag Selectors*************************************************/
 
-/*******************************Class Selectors*************************************************/
-.about-me
+li
 {
   font-size: clamp(0.5rem,1.3vw,1.2rem);
 }
+
+p
+{
+  font-size: clamp(0.5rem,1.3vw,1.2rem);
+}
+/*******************************Tag Selectors*************************************************/
+
+/*******************************Class Selectors*************************************************/
 
 .about-me-mobile
 {
@@ -158,14 +194,8 @@ img
   color: white;
 }
 
-.ice-breaker
-{
-  font-size: clamp(0.5rem,1.2vw,1.1rem);
-}
-
 .ice-breaker-header
 {
-  font-size: clamp(2rem,3vw,8rem);
   text-align: center;
 }
 
@@ -197,19 +227,16 @@ img
 
 .project-class-header
 {
-  font-size: clamp(2rem,3vw,8rem);
   text-align: center;
 }
 
 .project-content .project-info h3
 {
-  font-size: clamp(1rem,2vw,3rem);
   text-align: center;
 }
 
-.project-content .project-info h5
+.project-content .project-info h4
 {
-  font-size: clamp(0.5rem,1.5vw,2rem);
   text-align: center;
 }
 
@@ -235,11 +262,6 @@ img
   width: 50%;
 }
 
-.project-text
-{
-  font-size: clamp(0.5rem,1.2vw,1.1rem);
-}
-
 .skill-category
 {
   margin: auto;
@@ -247,14 +269,8 @@ img
   width: 40rem;
 }
 
-.skill-category-description
-{
-  font-size: clamp(0.5rem,1.3vw,1.1rem);
-}
-
 .skill-category-header
 {
-  font-size: clamp(1rem,1.5vw,2rem);
   text-align: center;
 }
 
