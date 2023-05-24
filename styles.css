@@ -9,6 +9,16 @@
     display: none;
   }
 
+  .background-list-item
+  {
+    width: 35rem;
+  }
+
+  .csu-eastbay-mobile
+  {
+    display: none;
+  }
+
   .ice-breaker
   {
     width: 60%;
@@ -35,6 +45,11 @@
     /*height: 31rem;*/
   }
 
+  .project-info
+  {
+    width: 50%;
+  }
+
   .profile-pic
   {
     height: 25vh;
@@ -47,7 +62,23 @@
 @media screen and (max-width: 47.99em) /*At most Mobile (Small) size*/
 {
   /*******************************Class Selectors*************************************************/
+  .about-me-mobile
+  {
+    font-size: clamp(0.5rem,2.6vw,4rem);
+  }
+
   .about-me
+  {
+    display: none;
+  }
+
+  .csu-eastbay-mobile
+  {
+    margin: auto;
+    width: 50%;
+  }
+
+  .csu-eastbay
   {
     display: none;
   }
@@ -78,6 +109,7 @@
   {
     margin: auto;
     margin-bottom: 3rem;
+    width: 60%;
   }
 
   .project-pic
@@ -89,8 +121,8 @@
 
   .skill-category
   {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
   /*******************************Class Selectors*************************************************/
 }
@@ -101,34 +133,45 @@ a
   text-decoration: none;
 }
 
+div
+{
+  max-width: 100%;
+}
+
 h1
 {
-  font-size: clamp(2rem,3vw,8rem);
+  /*font-size: clamp(2rem,2.5vw,7.5rem);*/
+  font-size: clamp(2rem,3.5vw,5rem);
 }
 
 h2
 {
-  font-size: clamp(2rem,2.5vw,7.5rem);
+  /*font-size: clamp(1.5rem,2.3vw,7rem);*/
+  font-size: clamp(1.7rem,3.3vw,4.5rem);
 }
 
 h3
 {
-  font-size: clamp(2rem,2.3vw,7rem);
+  /*font-size: clamp(1rem,2vw,6.5rem);*/
+  font-size: clamp(1.5rem,3vw,4rem);
 }
 
 h4
 {
-  font-size: clamp(0.7rem,2vw,6.5rem);
+  /*font-size: clamp(0.7rem,1.5vw,6rem);*/
+  font-size: clamp(1.3rem,2vw,3rem);
 }
 
 h5
 {
-  font-size: clamp(0.5rem,1.7vw, 5.5rem);
+  /*font-size: clamp(0.5rem,1.3vw,5.5rem);*/
+  font-size: clamp(1rem,1.7vw,2.5rem);
 }
 
 h6
 {
-  font-size: clamp(0.5rem,1.5vw,4.5rem);
+  /*font-size: clamp(0.3rem,1vw,5rem);*/
+  font-size: clamp(0.7rem,1.4vw,2rem);
 }
 
 iframe
@@ -143,30 +186,20 @@ img
 
 li
 {
-  font-size: clamp(0.5rem,1.3vw,1.2rem);
+  font-size: clamp(0.6rem,1.2vw,1.2rem);
 }
 
 p
 {
-  font-size: clamp(0.5rem,1.3vw,1.2rem);
+  font-size: clamp(0.6rem,1.2vw,1.2rem);
 }
 /*******************************Tag Selectors*************************************************/
 
 /*******************************Class Selectors*************************************************/
 
-.about-me-mobile
-{
-  font-size: clamp(0.5rem,2.6vw,4rem);
-}
-
 .background-class-header
 {
   text-align: center;
-}
-
-.background-list-item
-{
-  width: 35rem;
 }
 
 .design-list
@@ -230,12 +263,12 @@ p
   text-align: center;
 }
 
-.project-content .project-info h3
+.project-content .project-info h4
 {
   text-align: center;
 }
 
-.project-content .project-info h4
+.project-content .project-info h5
 {
   text-align: center;
 }
@@ -249,11 +282,6 @@ p
 .project-content .project-pic img
 {
   width: 100%;
-}
-
-.project-info
-{
-  width: 50%;
 }
 
 .project-pic
