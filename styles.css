@@ -214,6 +214,11 @@ p
   padding: 0;
 }
 
+.experience li
+{
+  padding-bottom: 1rem;
+}
+
 .game-controller-icon
 {
   background-color: #e06244;
