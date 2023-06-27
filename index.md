@@ -54,7 +54,7 @@
               <ul class="social-list d-flex mt-3 ps-4">
                 <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
                 <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
-                <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller Icon.png" alt="Controller"></a></li>
+                <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller.svg" alt="Controller"></a></li>
               </ul>
             </div>
           </div>
@@ -66,7 +66,7 @@
             <ul class="social-list d-flex m-0 p-0">
               <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
               <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
-              <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller Icon.png" alt="Controller"></a></li>
+              <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller.svg" alt="Controller"></a></li>
             </ul>
             <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo" src=".\images\MVizi Logo.png" alt="MVizi Games logo"></a>
           </div>
@@ -88,8 +88,7 @@
         <p class="skill-category-description">Game design is my main passion and what I've strived towards ever since I was a kid.
           My vision is to create games that foster friendship and community in order to make the world a better place.</p>
         <p class="skill-category-description">In order to achieve this vision, I've attended events with other like minded individuals to grow our game design skills
-          as well as taken online courses. All the games I've made so far have been 2D, made with Unity, and programmed in C#,
-          but I plan to venture into 3D in the future as well.</p>
+          as well as taken online courses. All the games I've made so far have been made with Unity and programmed in C#.</p>
       </div>
       <br>
 
@@ -194,7 +193,7 @@
       <ul class="social-list d-flex justify-content-center ps-0">
         <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
         <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon ms-3 me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
-        <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller Icon.png" alt="Controller"></a></li>
+        <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller.svg" alt="Controller"></a></li>
       </ul>
 
         <a href="https://www.vecteezy.com/free-vector/web-design" target="_blank">Web Design Vectors by Vecteezy</a>
