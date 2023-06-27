@@ -19,6 +19,11 @@
     display: none;
   }
 
+  .Header-Titles
+  {
+    color: white;
+  }
+
   .ice-breaker
   {
     width: 60%;
@@ -79,6 +84,11 @@
   .csu-eastbay
   {
     display: none;
+  }
+
+  .Header-Titles
+  {
+    color: black;
   }
 
   .ice-breaker
@@ -223,11 +233,6 @@ p
   border-radius: 1.5rem;
   height: 2.5rem;
   width: 2.5rem;
-}
-
-.Header-Titles
-{
-  color: white;
 }
 
 .ice-breaker-header
