@@ -138,6 +138,7 @@
 /*******************************Tag Selectors*************************************************/
 a
 {
+  font-family: 'Overpass', sans-serif;
   text-decoration: none;
 }
 
@@ -248,6 +249,11 @@ p
   border-radius: 2.5rem;
   height: 2.5rem;
   width: 2.5rem;
+}
+
+.navbar
+{
+  font-weight: bold;
 }
 
 .navbar-toggler-icon
