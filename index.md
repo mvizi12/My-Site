@@ -112,22 +112,22 @@
       <br>
 
       <div class="skill-category pb-3">
-        <h5 class="skill-category-header">Software Developer</h5>
-        <p class="skill-category-description">When I was a kid and decided on being a Game Designer,
-          I also decided to major in Computer Science because I was told that would be a great degree for it,
-          and because I wanted to do my part in making all the stuff Tony Stark was able to do in Iron Man 1/2 a reality.</p>
-        <p class="skill-category-description">Ever since I've been in this major I've learned key concepts, such as algorithms & data structures while applying those concepts in projects.
-          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control.</p>
-      </div>
-      <br>
-
-      <div class="skill-category pb-3">
         <h5 class="skill-category-header">Web Developer</h5>
         <p class="skill-category-description">Journeying through college as a CS major I found struggled somewhat finding an avenue I really enjoyed when it came to the major.
           But just like with app development, I found that I enjoyed front-end website devlopment more than other areas of the field.
           I also saw it as another skill that could aid me in my indie game design aspirations.</p>
         <p class="skill-category-description">I've been exposed to the basics of web development at East Bay and continue to further my knowledege in the field by taking an online web dev course.
           Some of what I've learned inlcudes: Bootstrap, CSS, HTML, & JavaScript.</p>
+      </div>
+      <br>
+
+      <div class="skill-category pb-3">
+        <h5 class="skill-category-header">Software Developer</h5>
+        <p class="skill-category-description">When I was a kid and decided on being a Game Designer,
+          I also decided to major in Computer Science because I was told that would be a great degree for it,
+          and because I wanted to do my part in making all the stuff Tony Stark was able to do in Iron Man 1/2 a reality.</p>
+        <p class="skill-category-description">Ever since I've been in this major I've learned key concepts, such as algorithms & data structures while applying those concepts in projects.
+          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control.</p>
       </div>
       <br>
 
