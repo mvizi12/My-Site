@@ -32,7 +32,7 @@
   .mvizi-games-logo
   {
     float: left;
-    height: 30vh;
+    /*height: 30vh;*/
     width: 15vw;
   }
 
@@ -55,7 +55,7 @@
 
   .profile-pic
   {
-    height: 30vh;
+    /*height: 30vh;*/
     width: 15vw;
   }
 
@@ -98,7 +98,7 @@
 
   .mvizi-games-logo
   {
-    height: 15vh;
+    /*height: 15vh;*/
     width: 15vw;
   }
 
@@ -109,7 +109,7 @@
 
   .profile-pic
   {
-    height: 15vh;
+    /*height: 15vh;*/
     width: 15vw;
   }
 

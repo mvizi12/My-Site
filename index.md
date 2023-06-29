@@ -23,7 +23,7 @@
       <header class="page-top">
         <div class="d-flex align-items-end justify-content-between pe-5 ps-4 pt-5">
           <div class="Header-Titles">
-            <h1 class="display-6">Miles Vizinau</h1>
+            <h3>Miles Vizinau</h3>
             <p class="about-me">
               Aspiring Game Designer/App Developer <br> Founder of MVIZI GAMES <br> CSU - East Bay Graduate<br> Based in California
             </p>
@@ -83,7 +83,7 @@
             <h1 class="ice-breaker-header">Introduction</h1>
             <p>I'm an aspiring game designer, app developer, and front-end web developer working from California. Aiming for a lot aren't I?</p>
             <p>I am currently working towards these goals through personal projects and online courses.</p>
-            <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a>
+            <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/unitycourse2/" target="_blank">C# Unity Game Dev 3D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a>
           </div>
         </div>
       </header>
