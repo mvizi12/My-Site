@@ -40,7 +40,7 @@
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
                 <li class="nav-item ms-2"><a class="nav-link" href=".\portfolio.html">Portfolio</a></li>
                 <li class="nav-item ms-2"><a class="nav-link" href=".\background.html">Background</a></li>
-                <li class="nav-item ms-2"><a class="nav-link" href="mailto:mvtendo@gmail.com?Subject=Vizi.com%20enquiry">Contact</a></li>
+                <li class="nav-item ms-2"><a class="nav-link" href="mailto:mvtendo@gmail.com">Contact</a></li>
               </ul>
             </div>
           </nav>
@@ -192,7 +192,7 @@
               <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
               <li class="nav-item ms-2"><a class="nav-link" href=".\portfolio.html">Portfolio</a></li>
               <li class="nav-item ms-2"><a class="nav-link" href=".\background.html">Background</a></li>
-              <li class="nav-item ms-2"><a class="nav-link" href="mailto:mvtendo@gmail.com?Subject=Vizi.com%20enquiry">Contact</a></li>
+              <li class="nav-item ms-2"><a class="nav-link" href="mailto:mvtendo@gmail.com">Contact</a></li>
             </ul>
           </div>
         </nav>
