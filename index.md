@@ -25,9 +25,9 @@
           <div class="Header-Titles">
             <h3>Miles Vizinau</h3>
             <p class="about-me">
-              Aspiring Game Designer/App Developer <br> Founder of MVIZI GAMES <br> CSU - East Bay Graduate<br> Based in California
+              Aspiring Game Designer <br> Founder of MVIZI GAMES <br> CSU - East Bay Graduate<br> Based in California
             </p>
-            <p class="about-me-mobile">Aspiring Game Designer/App Developer</p>
+            <p class="about-me-mobile">Aspiring Game Designer</p>
           </div>
 
           <nav class="navbar navbar-expand-lg navbar-light">
@@ -48,14 +48,14 @@
         </div>
 
         <div class="page-intro-laptop">
-          <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo" src=".\images\MVizi Logo.png" alt="MVizi Games logo"></a>
+          <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo pe-5" src=".\Images\M-VIZI GAMES Logo.png" alt="M-VIZI GAMES Logo"></a>
           <div class="d-flex justify-content-around">
             <p></p>
             <div class="ice-breaker ms-5">
               <h1 class="ice-breaker-header">Introduction</h1>
-              <p>I'm an aspiring game designer, app developer, and front-end web developer working from California. Aiming for a lot aren't I?</p>
+              <p>I'm an aspiring game designer with an intent to focus on level/content design working from California.</p>
               <p>I am currently working towards these goals through personal projects and online courses.</p>
-              <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/unitycourse2/" target="_blank">C# Unity Game Dev 3D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
+              <p>Notable personal courses: <a href="https://indiegameacademy.com/">Indie Game Academy Level 1</a>, <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/unitycourse2/" target="_blank">C# Unity Game Dev 3D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
             </div>
             <div class="pic-media">
               <img class="profile-pic me-3" src=".\images\ProfPic.png" alt="Profile-Pic">
@@ -81,7 +81,7 @@
 
           <div class="ice-breaker pb-3">
             <h1 class="ice-breaker-header">Introduction</h1>
-            <p>I'm an aspiring game designer, app developer, and front-end web developer working from California. Aiming for a lot aren't I?</p>
+            <p>I'm an aspiring game designer with an intent to focus on level/content design working from California.</p>
             <p>I am currently working towards these goals through personal projects and online courses.</p>
             <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/unitycourse2/" target="_blank">C# Unity Game Dev 3D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a>
           </div>
