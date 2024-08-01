@@ -19,6 +19,13 @@
     display: none;
   }
 
+  .csueb-logo
+  {
+    float: left;
+    /*height: 30vh;*/
+    width: 15vw;
+  }
+
   .Header-Titles
   {
     color: white;
@@ -27,13 +34,6 @@
   .ice-breaker
   {
     width: 60%;
-  }
-
-  .mvizi-games-logo
-  {
-    float: left;
-    /*height: 30vh;*/
-    width: 20vw;
   }
 
   .page-intro-mobile
@@ -75,6 +75,12 @@
     display: none;
   }
 
+  .csueb-logo
+  {
+    /*height: 15vh;*/
+    width: 15vw;
+  }
+
   .csu-eastbay-mobile
   {
     margin: auto;
@@ -94,12 +100,6 @@
   .ice-breaker
   {
     margin: auto;
-  }
-
-  .mvizi-games-logo
-  {
-    /*height: 15vh;*/
-    width: 15vw;
   }
 
   .page-intro-laptop
@@ -230,7 +230,7 @@ p
   padding-bottom: 1rem;
 }
 
-.game-controller-icon
+.github-icon
 {
   background-color: #e06244;
   border-radius: 1.5rem;
@@ -353,7 +353,7 @@ p
 
 #Bottom-container-portfolio
 {
-  background-color: #E9D8A6;
+  background-color: #f1f0e9;
   text-align: center;
 }
 

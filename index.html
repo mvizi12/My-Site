@@ -25,9 +25,9 @@
           <div class="Header-Titles">
             <h3>Miles Vizinau</h3>
             <p class="about-me">
-              Aspiring Game Designer <br> Founder of MVIZI GAMES <br> CSU - East Bay Graduate<br> Based in California
+              Software Engineer <br> CSU - East Bay Graduate<br> Based in California
             </p>
-            <p class="about-me-mobile">Aspiring Game Designer</p>
+            <p class="about-me-mobile">Software Engineer</p>
           </div>
 
           <nav class="navbar navbar-expand-lg navbar-light">
@@ -48,21 +48,21 @@
         </div>
 
         <div class="page-intro-laptop">
-          <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo pe-5" src=".\Images\M-VIZI GAMES Logo.png" alt="M-VIZI GAMES Logo"></a>
+          <div><p></p></div> <!--Fore extra space-->
           <div class="d-flex justify-content-around">
-            <p></p>
+            <div><img class="csueb-logo" src=".\images\CSUEB.png" alt="CSU - East Bay"></div>
             <div class="ice-breaker ms-5">
               <h1 class="ice-breaker-header">Introduction</h1>
-              <p>I'm an aspiring game designer with an intent to focus on level/content design working from California.</p>
-              <p>I am currently working towards these goals through personal projects and online courses.</p>
-              <p>Notable personal courses: <a href="https://indiegameacademy.com/">Indie Game Academy Level 1</a>, <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/unitycourse2/" target="_blank">C# Unity Game Dev 3D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
+              <p>I'm an aspiring software engineer with a with professional aspiration for the gaming industry, but proficient in other industries as well.</p>
+              <p>I am currently working towards this goal through personal projects and online courses.</p>
+              <p>Notable courses: <a href="https://catalog.csueastbay.edu/preview_program.php?catoid=35&poid=15367&returnto=30943">Software Engineering</a>, <a href="https://catalog.csueastbay.edu/preview_program.php?catoid=35&poid=15367&returnto=30943"  target="_blank">Analysis of Algorithms</a>, <a href="https://catalog.csueastbay.edu/preview_program.php?catoid=35&poid=15367&returnto=30943" target="_blank">Artificial Intelligence</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
             </div>
             <div class="pic-media">
               <img class="profile-pic me-3" src=".\images\ProfPic.png" alt="Profile-Pic">
               <ul class="social-list d-flex mt-3 ps-4">
-                <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
-                <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
-                <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller.svg" alt="Controller"></a></li>
+                <li><a href="https://github.com/mvizi12" target="_blank"><img class="github-icon" src=".\images\GitHub Icon.jpg" alt="GitHub"></a></li>
+                <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon ms-3 me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
+                <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
               </ul>
             </div>
           </div>
@@ -72,18 +72,18 @@
           <div class="d-flex justify-content-between align-items-center">
             <img class="profile-pic" src=".\images\ProfPic.png" alt="Profile-Pic">
             <ul class="social-list d-flex m-0 p-0">
+              <li><a href="https://github.com/mvizi12" target="_blank"><img class="github-icon" src=".\images\GitHub Icon.jpg" alt="GitHub"></a></li>
               <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon me-3"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
               <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
-              <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller.svg" alt="Controller"></a></li>
             </ul>
             <a href="https://twitter.com/GamesMvizi" target="_blank"><img class="mvizi-games-logo" src=".\images\MVizi Logo.png" alt="MVizi Games logo"></a>
           </div>
 
           <div class="ice-breaker pb-3">
             <h1 class="ice-breaker-header">Introduction</h1>
-            <p>I'm an aspiring game designer with an intent to focus on level/content design working from California.</p>
-            <p>I am currently working towards these goals through personal projects and online courses.</p>
-            <p>Notable personal courses: <a href="https://www.udemy.com/course/unitycourse/"  target="_blank">C# Unity Game Dev 2D</a>, <a href="https://www.udemy.com/course/unitycourse2/" target="_blank">C# Unity Game Dev 3D</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a>
+            <p>I'm an aspiring software engineer with a with professional aspiration for the gaming industry, but proficient in other industries as well.</p>
+            <p>I am currently working towards this goal through personal projects and online courses.</p>
+            <p>Notable courses: <a href="https://catalog.csueastbay.edu/preview_program.php?catoid=35&poid=15367&returnto=30943">Software Engineering</a>, <a href="https://catalog.csueastbay.edu/preview_program.php?catoid=35&poid=15367&returnto=30943"  target="_blank">Analysis of Algorithms</a>, <a href="https://catalog.csueastbay.edu/preview_program.php?catoid=35&poid=15367&returnto=30943" target="_blank">Artificial Intelligence</a>, <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">Web Dev Bootcamp</a><br>
           </div>
         </div>
       </header>
@@ -92,20 +92,20 @@
 
     <div id="Middle-container-home">
       <div class="skill-category pb-3 pt-5">
-        <h5 class="skill-category-header">Game Designer</h5>
-        <p class="skill-category-description">Game design is my main passion and what I've strived towards ever since I was a kid.
-          My vision is to create games that foster friendship and community in order to make the world a better place.</p>
-        <p class="skill-category-description">In order to achieve this vision, I've attended events with other like minded individuals to grow our game design skills
-          as well as taken online courses. All the games I've made so far have been made with Unity and programmed in C#.</p>
+        <h5 class="skill-category-header">Software Developer</h5>
+        <p class="skill-category-description">When I was a kid watching the Iron Man movies,
+          I decided to major in Computer Science because I was told that would be a great degree to folloe in Tony Stark's footsteps.
+          I wanted to do my part in making all the stuff Tony Stark was able to do in Iron Man 1/2 a reality.</p>
+        <p class="skill-category-description">Ever since I've been in this major I've learned key concepts, such as algorithms & data structures while applying those concepts in projects.
+          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control.</p>
       </div>
       <br>
 
       <div class="skill-category pb-3">
         <h5 class="skill-category-header">App Developer</h5>
         <p class="skill-category-description">Going through college as a CS major, I learned just how many different fields that one term encompasses.
-          I wasn't quite sure how to use this degree to supplement my Game Design career path,
-          so I ended up choosing "Mobile Programming" as one of my electives to see how I vibed with it.
-          I ended up liking the class a lot and realized app development would be a great skill to have as a game designer.</p>
+          I wasn't sure which path to follow so I chose "Mobile Programming" as one of my electives to see how I vibed with it.
+          I ended up liking the class a lot and realized app development would be a great skill to have.</p>
         <p class="skill-category-description">I learned Android Studio and android app development concepts utilizing the Java programming language.
           I plan to take an online course that teaches ios app development as well.</p>
       </div>
@@ -114,20 +114,9 @@
       <div class="skill-category pb-3">
         <h5 class="skill-category-header">Web Developer</h5>
         <p class="skill-category-description">Journeying through college as a CS major I found struggled somewhat finding an avenue I really enjoyed when it came to the major.
-          But just like with app development, I found that I enjoyed front-end website devlopment more than other areas of the field.
-          I also saw it as another skill that could aid me in my indie game design aspirations.</p>
+          But just like with app development, I found that I enjoyed front-end website devlopment more than other areas of the field.</p>
         <p class="skill-category-description">I've been exposed to the basics of web development at East Bay and continue to further my knowledege in the field by taking an online web dev course.
           Some of what I've learned inlcudes: Bootstrap, CSS, HTML, & JavaScript.</p>
-      </div>
-      <br>
-
-      <div class="skill-category pb-3">
-        <h5 class="skill-category-header">Software Developer</h5>
-        <p class="skill-category-description">When I was a kid and decided on being a Game Designer,
-          I also decided to major in Computer Science because I was told that would be a great degree for it,
-          and because I wanted to do my part in making all the stuff Tony Stark was able to do in Iron Man 1/2 a reality.</p>
-        <p class="skill-category-description">Ever since I've been in this major I've learned key concepts, such as algorithms & data structures while applying those concepts in projects.
-          Some of what I've learned includes: C++, Java, Python, Unit Testing, and Version Control.</p>
       </div>
       <br>
 
@@ -145,7 +134,6 @@
           <h5>Design</h5>
           <ul class="design-list">
             <li>App Design</li>
-            <li>Game Design</li>
             <li>Website Design</li>
             <li>Wireframing</li>
           </ul>
@@ -155,7 +143,6 @@
           <h5>Development</h5>
           <ul class="development-list">
             <li>C++ | C#</li>
-            <li>Designs coded</li>
             <li>HTML | CSS</li>
             <li>JavaScript</li>
             <li>Java</li>
@@ -170,7 +157,6 @@
             <li>Android Studio</li>
             <li>Balsamiq</li>
             <li>PowerDirector</li>
-            <li>Unity</li>
             <li>VS Code</li>
             <li>Visual Studio</li>
           </ul>
@@ -199,9 +185,9 @@
       <br>
 
       <ul class="social-list d-flex justify-content-center ps-0">
+        <li><a href="https://github.com/mvizi12" target="_blank"><img class="github-icon" src=".\images\GitHub Icon.jpg" alt="GitHub"></a></li>
         <li><a href="https://twitter.com/Otaking424" target="_blank"><img class="twitter-icon"src="https://lisher.net/assets/svg/twitter.svg" alt="Twitter"></a></li>
         <li><a href="https://www.instagram.com/otakingggg/" target="_blank"><img class="instagram-icon ms-3 me-3" src="https://lisher.net/assets/svg/instagram.svg" alt="Instagram"></a></li>
-        <li><a href="https://sharemygame.com/@Otaking234" target="_blank"><img class="game-controller-icon" src=".\images\Game Controller.svg" alt="Controller"></a></li>
       </ul>
 
         <a href="https://www.vecteezy.com/free-vector/web-design" target="_blank">Web Design Vectors by Vecteezy</a>
